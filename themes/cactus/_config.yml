@@ -79,7 +79,7 @@ logo:
   width: 50
   height: 50
   url: /source/typewriter.png
-  gravatar: false
+  gravatar: true
   grayout: false
 
 # Customize the favicons.
