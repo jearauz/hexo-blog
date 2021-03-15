@@ -78,7 +78,7 @@ logo:
   enabled: true
   width: 50
   height: 50
-  url: /images/typewriter.png
+  url: /source/typewriter.png
   gravatar: false
   grayout: false
 
