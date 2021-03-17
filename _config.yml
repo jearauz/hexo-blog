@@ -4,7 +4,7 @@
 
 # Site
 title: I Might Be Wrong
-subtitle: 'A personal blog'
+subtitle: 'A Blog about Everything'
 description: ''
 keywords:
 author: Javier Arauz
@@ -97,8 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
-##theme: cactus
+##theme: landscape
+theme: cactus
 ##theme: minos
 
 # Deployment
