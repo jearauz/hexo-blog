@@ -24,8 +24,7 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: http://github.com/probberechts/cactus-dark
-  instagram: /
+  instagram: https://www.instagram.com/jearauz29/
   mail: mailto:jearauz@e.email
 
 # Customize the overview with displaying a tagcloud on the index page.
