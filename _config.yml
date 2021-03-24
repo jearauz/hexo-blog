@@ -5,7 +5,7 @@
 # Site
 title: I Might Be Wrong
 subtitle: 'A Blog about Everything'
-description: 'I write about pretty much everything'
+description: 'Pretty much about books, music, and other things I care about.'
 keywords:
 author: Javier Arauz
 language: en
@@ -96,6 +96,8 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+spotify:
+  size: 'compact'
 ## Themes: https://hexo.io/themes/
 theme: cactus
 
