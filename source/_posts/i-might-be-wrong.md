@@ -11,12 +11,11 @@ Most of the books in this list can be found on **[Thriftbooks](https://www.thrif
 
 ### Non-Fiction:
 
-* **[Atomic Habits : An Easy and Proven Way to Build Good Habits and Break Bad Ones](https://www.thriftbooks.com/w/atomic-habits-an-easy--proven-way-to-build-good-habits--break-bad-ones_james-clear/19493521/#edition=20707871&idiq=29636095)** by James Clear.
 * **[The Monsters : Mary Shelley and the Curse of Frankenstein](https://www.thriftbooks.com/w/the-monsters-mary-shelley-and-the-curse-of-frankenstein_thomas-hoobler_dorothy-hoobler/558366/?resultid=228bde4b-d1d6-4cbb-a7f9-993b3e49b731#edition=4503586&idiq=3369781)** by  Thomas Hoobler and Dorothy Hoobler.
 * **[Max Perkins: Editors of Genius](https://www.thriftbooks.com/w/max-perkins-editor-of-genius_a-scott-berg/332309/?resultid=ebb76340-8a77-4117-b167-6cad33d8a316#edition=11158144&idiq=28437939)** by A. Scott Berg.
 * **[Born a Crime: Stories from a South African Childhood](https://www.thriftbooks.com/w/born-a-crime-stories-from-a-south-african-childhood_trevor-noah/11612812/?resultid=b70fdf5a-003b-4f01-83d6-47a22556fc3e#edition=11183807&idiq=18657869)** by Trevor Noah.
 * **[10% Happier Revised Edition : How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story](https://www.thriftbooks.com/w/10-happier-how-i-tamed-the-voice-in-my-head-reduced-stress-without-losing-my-edge-and-found-self-help-that-actually-works--a-true-story_dan---harris/3223663/?resultid=3fb53804-2d94-41e8-aac6-8a31eb086bfa#edition=20967867&idiq=32833668)** by Dan Harris.
-* **[A Place to Stand](https://www.thriftbooks.com/w/a-place-to-stand-the-making-of-a-poet_jimmy-santiago-baca/250907/?resultid=b1867e5d-2244-4021-bdf3-d3fdb087ef4e#edition=3801056&idiq=6470024)** by Jimmy Santiago Baca. 
+* **[A Place to Stand](https://www.thriftbooks.com/w/a-place-to-stand-the-making-of-a-poet_jimmy-santiago-baca/250907/?resultid=b1867e5d-2244-4021-bdf3-d3fdb087ef4e#edition=3801056&idiq=6470024)** by Jimmy Santiago Baca.
 * **[What I Talk about When I Talk about Running : A Memoir](https://www.thriftbooks.com/w/what-i-talk-about-when-i-talk-about-running_haruki-murakami/261245/?resultid=0239453d-a432-4b7d-942a-41a2410bec01#edition=5182153&idiq=3965084)** by Haruki Murakami.
 * **[Bird by Bird : Some Instructions on Writing and Life](https://www.thriftbooks.com/w/bird-by-bird-some-instructions-on-writing-and-life-by-anne-lamott/250013/?resultid=9d8d81d7-3d66-4b54-93ca-849882d24820#edition=2381928&idiq=3481488)** by Anne Lamott.
 * **[Heavier Than Heaven : A Biography of Kurt Cobain](https://www.thriftbooks.com/w/heavier-than-heaven-a-biography-of-kurt-cobain_charles-r-cross/252868/?resultid=3ad0e655-feb8-461c-a69e-f443cae07b4f#edition=20896102&idiq=32136087)** by Charles R. Cross.
@@ -27,8 +26,6 @@ Most of the books in this list can be found on **[Thriftbooks](https://www.thrif
 * **[Loving Frank](https://www.thriftbooks.com/w/loving-frank-by-nancy-horan/246479/?resultid=f2c0efd9-7b75-4712-b8c0-e08042b77565#edition=4404926&idiq=3631977)** by Nancy Horan.
 * **[High Fidelity](https://www.thriftbooks.com/w/high-fidelity-by-nick-hornby/250122/?resultid=14a5cb6d-22de-4364-a8eb-ce154652dd02#edition=2315208&idiq=36168434)** by Nick Hornby.
 * **[I'd Die for You and Other Lost Stories](https://www.thriftbooks.com/w/id-die-for-you-and-other-lost-stories_f-scott-fitzgerald/13550170/?resultid=de14bc7d-6491-4ea9-b090-aa131e74fedc#edition=18399694&idiq=33254785)** by F. Scott Fitzgerald.
-*  **[Island Beneath the Sea](https://www.thriftbooks.com/w/island-beneath-the-sea_isabel-allende/256757/?resultid=d28ec1a0-b231-46c1-8c38-4e36689869b5#edition=5914576&idiq=2279746)** by Isabel Allende.
-* **[The Damned Utd](https://www.thriftbooks.com/w/the-damned-utd_david-peace/369493/#edition=4308659&idiq=3027285)** David Peace.
 
 ### Poetry
 
