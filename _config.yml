@@ -99,7 +99,6 @@ ignore:
 ## Themes: https://hexo.io/themes/
 ##theme: cactus
 theme: ascent
-
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
