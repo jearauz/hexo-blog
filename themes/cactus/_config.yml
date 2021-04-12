@@ -80,7 +80,7 @@ logo:
   height: 50
   url: /source/typewriter.png
   gravatar: true
-  grayout: false
+  grayout: true
 
 # Customize the favicons.
 # Cactus supports a limited set of the three most important icons:
@@ -166,3 +166,7 @@ umami_analytics:
 gravatar:
   email: quiquearauz20@gmail.com
   hash: d41d8cd98f00b204e9800998ecf8427e
+
+#Spotify Player plugin
+spotify:
+  size: 'compact'
