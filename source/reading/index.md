@@ -1,16 +1,18 @@
 ---
 title: Reading List
-date: 2021-03-22 10:54:57
+date: 2021-06-11 10:54:57
 ---
 
-Like everything else in my life, I'm bad at keeping track of my readings. Usually, I start a book and abandon it halfway through. No a good habit to have, I know.
+Something I have never admitted is I'm really bad in tracking my readings. The habit of jumping from one book to another without finishing them is completely ingrained in my person. This following reading list was born of the necessity of improving my reading habit. To make it more interesting, I decided to read more non-fiction, especially memoirs, than anything else. There's a lot to learn from other people's experience and wisdom.
 
-Most of the books in this list can be found on **[Thriftbooks](https://www.thriftbooks.com/)**. If a book is available somewhere else, it'd be indicated with an *.
+Most of the books in this list can be found on **[Thriftbooks](https://www.thriftbooks.com/)** if you're interested in one of them. If a book is available somewhere else, I'll mark it with an asterisk.
 
 # 2021:
 
 ### Non-Fiction:
 
+
+![Alt Text](/reading/educated.jpg "Title Text")
 * **[Educated : A Memoir](https://www.thriftbooks.com/w/educated-a-memoir_tara-westover/14572273/?resultid=9161f32e-98d3-49ff-a6df-444238c4fd56#edition=15455721&idiq=27363333)** by Tara Westover.
 * **[Atomic Habits : An Easy and Proven Way to Build Good Habits and Break Bad Ones](https://www.thriftbooks.com/w/atomic-habits-an-easy--proven-way-to-build-good-habits--break-bad-ones_james-clear/19493521/#edition=20707871&idiq=29636095)** by James Clear.
 * **[The Monsters : Mary Shelley and the Curse of Frankenstein](https://www.thriftbooks.com/w/the-monsters-mary-shelley-and-the-curse-of-frankenstein_thomas-hoobler_dorothy-hoobler/558366/?resultid=228bde4b-d1d6-4cbb-a7f9-993b3e49b731#edition=4503586&idiq=3369781)** by  Thomas Hoobler and Dorothy Hoobler.
@@ -22,6 +24,8 @@ Most of the books in this list can be found on **[Thriftbooks](https://www.thrif
 * **[Bird by Bird : Some Instructions on Writing and Life](https://www.thriftbooks.com/w/bird-by-bird-some-instructions-on-writing-and-life-by-anne-lamott/250013/?resultid=9d8d81d7-3d66-4b54-93ca-849882d24820#edition=2381928&idiq=3481488)** by Anne Lamott.
 * **[Heavier Than Heaven : A Biography of Kurt Cobain](https://www.thriftbooks.com/w/heavier-than-heaven-a-biography-of-kurt-cobain_charles-r-cross/252868/?resultid=3ad0e655-feb8-461c-a69e-f443cae07b4f#edition=20896102&idiq=32136087)** by Charles R. Cross.
 * **[Founders at Work : Stories of Startups' Early Days](https://www.thriftbooks.com/w/founders-at-work-stories-of-startups-early-days_jessica-livingston/272931/?resultid=a3b6c2d7-112e-41f3-9531-85fbedd47237#edition=5219228&idiq=7108276)** by Jessica Livingston.
+* **[Bossypants](https://www.thriftbooks.com/w/bossypants_tina-fey/248832/?resultid=92031018-49d7-4e7b-a277-3b62123f9975#edition=6230069&idiq=1403850)** by Tina Fey.
+* **[A Very Punchable Face](https://www.amazon.com/Very-Punchable-Face-Memoir/dp/1101906324/ref=sr_1_1?keywords=colin+jost&qid=1623392968&sr=8-1)** by Colin Jost.
 
 ### Fiction:
 * **[Everything I Never Told You](https://www.thriftbooks.com/w/everything-i-never-told-you_celeste-ng/3150109/#edition=8635339&idiq=8510353)** by Celeste Ng.
