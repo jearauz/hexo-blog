@@ -23,7 +23,7 @@ Most of the books in this list can be found on **[Thriftbooks](https://www.thrif
 * **[Heavier Than Heaven : A Biography of Kurt Cobain](https://www.thriftbooks.com/w/heavier-than-heaven-a-biography-of-kurt-cobain_charles-r-cross/252868/?resultid=3ad0e655-feb8-461c-a69e-f443cae07b4f#edition=20896102&idiq=32136087)** by Charles R. Cross.
 * **[Founders at Work : Stories of Startups' Early Days](https://www.thriftbooks.com/w/founders-at-work-stories-of-startups-early-days_jessica-livingston/272931/?resultid=a3b6c2d7-112e-41f3-9531-85fbedd47237#edition=5219228&idiq=7108276)** by Jessica Livingston.
 * **[Bossypants](https://www.thriftbooks.com/w/bossypants_tina-fey/248832/?resultid=92031018-49d7-4e7b-a277-3b62123f9975#edition=6230069&idiq=1403850)** by Tina Fey.
-* **(*)[A Very Punchable Face](https://www.amazon.com/Very-Punchable-Face-Memoir/dp/1101906324/ref=sr_1_1?keywords=colin+jost&qid=1623392968&sr=8-1)** by Colin Jost.
+* **[A Very Punchable Face](https://www.amazon.com/Very-Punchable-Face-Memoir/dp/1101906324/ref=sr_1_1?keywords=colin+jost&qid=1623392968&sr=8-1) (*)** by Colin Jost.
 * **[The Soccer War](https://www.thriftbooks.com/w/wojna-futbolowa_ryszard-kapuciski/309602/?resultid=b3d378e6-10d3-4949-be41-c4a945f7c3af#edition=2270942&idiq=2126242)** by Ryszard Kapuściński.
 
 ### Fiction:
@@ -32,11 +32,10 @@ Most of the books in this list can be found on **[Thriftbooks](https://www.thrif
 * **[Loving Frank](https://www.thriftbooks.com/w/loving-frank-by-nancy-horan/246479/?resultid=f2c0efd9-7b75-4712-b8c0-e08042b77565#edition=4404926&idiq=3631977)** by Nancy Horan.
 * **[High Fidelity](https://www.thriftbooks.com/w/high-fidelity-by-nick-hornby/250122/?resultid=14a5cb6d-22de-4364-a8eb-ce154652dd02#edition=2315208&idiq=36168434)** by Nick Hornby.
 * **[I'd Die for You and Other Lost Stories](https://www.thriftbooks.com/w/id-die-for-you-and-other-lost-stories_f-scott-fitzgerald/13550170/?resultid=de14bc7d-6491-4ea9-b090-aa131e74fedc#edition=18399694&idiq=33254785)** by F. Scott Fitzgerald.
-*  **[Island Beneath the Sea](https://www.thriftbooks.com/w/island-beneath-the-sea_isabel-allende/256757/?resultid=d28ec1a0-b231-46c1-8c38-4e36689869b5#edition=5914576&idiq=2279746)** by Isabel Allende.
 * **[The Damned Utd](https://www.thriftbooks.com/w/the-damned-utd_david-peace/369493/#edition=4308659&idiq=3027285)** by David Peace.
 
 ### Poetry
 
 * **[This Craft of Verse](https://www.thriftbooks.com/w/this-craft-of-verse_jorge-luis-borges/498108/?resultid=1e3f709e-5ace-4614-964f-320bc2440260#edition=4824239&idiq=10425919)** by Jorge Luis Borges.
 * **[The Captain's Verses](https://www.thriftbooks.com/w/the-captains-verses-los-versos-del-capitan-a-new-directions-book/22059788/?resultid=d0ac8ec2-e529-494d-a7ff-ac7913eea244#isbn=B0006C4KHQ&edition=58393953)** by Pablo Neruda.
-* **(*)[Profiles](http://www.andreabeltran.com/chapbook/profiles-a-chapbook)** by Andrea Blancas Beltran.
+* **[Profiles](http://www.andreabeltran.com/chapbook/profiles-a-chapbook) (*)** by Andrea Blancas Beltran.
