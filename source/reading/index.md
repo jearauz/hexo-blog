@@ -39,3 +39,4 @@ Most of the books in this list can be found on **[Thriftbooks](https://www.thrif
 * **[This Craft of Verse](https://www.thriftbooks.com/w/this-craft-of-verse_jorge-luis-borges/498108/?resultid=1e3f709e-5ace-4614-964f-320bc2440260#edition=4824239&idiq=10425919)** by Jorge Luis Borges.
 * **[The Captain's Verses](https://www.thriftbooks.com/w/the-captains-verses-los-versos-del-capitan-a-new-directions-book/22059788/?resultid=d0ac8ec2-e529-494d-a7ff-ac7913eea244#isbn=B0006C4KHQ&edition=58393953)** by Pablo Neruda.
 * **[Profiles](http://www.andreabeltran.com/chapbook/profiles-a-chapbook) (*)** by Andrea Blancas Beltran.
+* **[Fieldsnotes on Ordinary Love](https://www.thriftbooks.com/w/field-notes-on-ordinary-love_keith-s-wilson/19687195/#edition=20909065&idiq=32592418)** by Keith S. Wilson.
